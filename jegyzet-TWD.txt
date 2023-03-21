@@ -1,0 +1,10 @@
+-Keretrendszer alkalmazása statikus módon(nem online)
+-Főcím(téma:kedvenc filmem, sorozatom)
+-12db kép min. 
+Hogyan nézzen ki?
+-sm nézetben 2 oszlopban látni a képeket
+-md nézetben 3 oszlopban 
+-lg nézetben 4 oszlopban 
+-alt legyen a képeknél
+-formázzuk boostrap osztályal a paragrafust
+-a képeket arányosan formázni (img flight, img thumbnail)
